@@ -1,3 +1,3 @@
-# IBM-Data-Science
+# Data-Science-Portfolio
 
-Repositorio creado para subir los desarrollos necesarios para la certificacion de Data Science con IBM
+This repository contains data science projects and developments

@@ -1,3 +1,3 @@
 # Data-Science-Portfolio
 
-This repository contains data science projects and developments created by me for academic, learning and hobby purposes.
+This repository contains some Data Science and Data Analysis projects I have developed.
